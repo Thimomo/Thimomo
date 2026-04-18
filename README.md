@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Thimo
+# Im a third year bachelor AI student at the University of Amsterdam.
+# I enjoy coding a lot, and trying to apply diverse frameworks to every day problems.
+
+# Currently i'm working on a pipeline that creates pixelart from continuous 
+# images, or from AI generated pixelart (filled with noise and what not).
 
 <!--
 **Thimomo/Thimomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
