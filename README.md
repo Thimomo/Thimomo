@@ -7,7 +7,7 @@ I enjoy coding a lot, and i like applying diverse frameworks to everyday problem
 
 Currently i'm working on a pipeline that creates pixelart from continuous 
 
-images, or from AI generated pixelart (filled with noise and what not).
+images or from AI generated pixelart (filled with noise and what not).
 
 <br> 
 
