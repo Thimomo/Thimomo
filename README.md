@@ -13,6 +13,8 @@ images or from AI generated pixelart (filled with noise and what not).
 
 I've worked on many projects. Take a look around my github!
 
+Each project has a README file, telling you exactly what the project is and how to run the code yourself.
+
 If you have any questions about any of my projects, don't hesitate to reach out.
 
 <!--
